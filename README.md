@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/VqVeFGrPdJ.gif" width=250><br>
+<img src="http://g.recordit.co/VqVeFGrPdJ.gif" width=500><br>
 
 ### Notes
 - Had trouble with getting any rows to show up on the screen. I think it was an issue with the naming of some of the files or an issue with connecting outlets. I could not resolve the issue, so I scapped the entire project and started all over following the steps carefully again.
