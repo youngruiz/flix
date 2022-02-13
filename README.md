@@ -20,9 +20,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/0rbTpAQHTf.gif" width=300><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+- Movie posters in grid view are heavily cropped.
+- Grid view and movie detail views do not work in landscape modes.
+
 
 ---
+
+
 
 ## Flix Part 1
 
